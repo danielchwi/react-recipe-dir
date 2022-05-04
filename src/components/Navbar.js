@@ -9,14 +9,10 @@ import './Navbar.css'
 import Searchbar from './Searchbar'
 
 export default function Navbar() {
-  const { color, changeColor } = useTheme()
-  const handleToogle = () => {
-    if(color === "blue") changeColor("orange")
-    if(color !== "blue") changeColor("blue")
-  }
+  const { color } = useTheme()
   return (
     <div className='navbar' style={{background: color}}>
-        <nav onClick={handleToogle}>
+        <nav>
             <Link to='/' className='brand'><h1>Recipe Dir</h1></Link>
             <Searchbar/>
             <Link to='/create'>Create Recipe</Link>
