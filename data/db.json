@@ -36,6 +36,29 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "asdasd",
+      "method": "asdasd",
+      "ingredients": [
+        "asdasd"
+      ],
+      "cookingTime": "10 minutes",
+      "id": "PqKrI5J"
+    },
+    {
+      "title": "Martabak",
+      "method": "potong daun bawang, masukian semua bahan, campur hingga rata, siapakan dough, ratakan dan masukan adonan kedalam dough yang telah di ratakan, gorang dan lipat dough, tunggu 15 menit, sajikan selagi hangat",
+      "ingredients": [
+        "telur",
+        "daun bawang",
+        "daging",
+        "garam",
+        "penyedap",
+        "dough"
+      ],
+      "cookingTime": "25 minutes",
+      "id": "7yIV6wk"
     }
   ]
 }
